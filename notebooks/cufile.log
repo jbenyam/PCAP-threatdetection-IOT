@@ -1,0 +1,30 @@
+ 24-08-2024 13:35:25:288 [pid=752272 tid=752272] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 24-08-2024 13:35:25:288 [pid=752272 tid=752272] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 24-08-2024 13:35:25:289 [pid=752272 tid=752272] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 24-08-2024 13:35:25:289 [pid=752272 tid=752272] NOTICE  cufio-drv:727 running in compatible mode
+ 24-08-2024 13:35:25:289 [pid=752272 tid=752272] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 24-08-2024 13:35:25:289 [pid=752272 tid=752272] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4080 SUPER: Model Not Supported
+ 24-08-2024 13:35:25:289 [pid=752272 tid=752272] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 24-08-2024 13:35:25:342 [pid=752272 tid=752272] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 24-08-2024 14:08:01:243 [pid=774548 tid=774548] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 24-08-2024 14:08:01:243 [pid=774548 tid=774548] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 24-08-2024 14:08:01:243 [pid=774548 tid=774548] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 24-08-2024 14:08:01:243 [pid=774548 tid=774548] NOTICE  cufio-drv:727 running in compatible mode
+ 24-08-2024 14:08:01:243 [pid=774548 tid=774548] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 24-08-2024 14:08:01:243 [pid=774548 tid=774548] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4080 SUPER: Model Not Supported
+ 24-08-2024 14:08:01:243 [pid=774548 tid=774548] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 24-08-2024 14:08:01:296 [pid=774548 tid=774548] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 24-08-2024 14:33:47:127 [pid=786144 tid=786144] ERROR  0:140 unable to load,  liburcu-bp.so.6 
+
+ 24-08-2024 14:33:47:127 [pid=786144 tid=786144] ERROR  0:140 unable to load,  liburcu-bp.so.1 
+
+ 24-08-2024 14:33:47:127 [pid=786144 tid=786144] WARN   0:168 failed to open /proc/driver/nvidia-fs/devcount  error: No such file or directory
+ 24-08-2024 14:33:47:127 [pid=786144 tid=786144] NOTICE  cufio-drv:727 running in compatible mode
+ 24-08-2024 14:33:47:127 [pid=786144 tid=786144] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 24-08-2024 14:33:47:127 [pid=786144 tid=786144] WARN   cufio-plat:431 GPU index 0 NVIDIA GeForce RTX 4080 SUPER: Model Not Supported
+ 24-08-2024 14:33:47:127 [pid=786144 tid=786144] WARN   cufio-udev:168 failed in udev device create: /sys/bus/pci/devices/0000:01:00.0
+ 24-08-2024 14:33:47:175 [pid=786144 tid=786144] ERROR  cufio-topo-udev:431 no device entries present in platform topology
